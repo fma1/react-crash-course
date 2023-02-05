@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 import App_07 from './07/App';
+import App_08 from './08/App';
+import App_08_2 from './08/App_2';
 
 function App() {
   return (
@@ -21,7 +23,7 @@ function App() {
         </a>
       </header>
 */}
-      <App_07 />
+      <App_08_2 />
     </>
   );
 }

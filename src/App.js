@@ -4,6 +4,9 @@ import App_07 from './07/App';
 import App_08 from './08/App';
 import App_08_2 from './08/App_2';
 import App_09 from './09/App';
+import App_10 from './10/App';
+import App_10_2 from './10/App_2';
+import App_10_3 from './10/App_3';
 
 function App() {
   return (
@@ -24,7 +27,7 @@ function App() {
         </a>
       </header>
 */}
-      <App_09 />
+      <App_10_3 />
     </>
   );
 }

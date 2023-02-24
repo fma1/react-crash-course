@@ -14,6 +14,7 @@ import App_14 from './14/App';
 import App_15 from './15/App';
 import App_16 from './16/App';
 import App_17 from './17/App';
+import TipCalculator from './react_component_exercises/TipCalculator';
 
 function App() {
   return (
@@ -34,7 +35,7 @@ function App() {
         </a>
       </header>
 */}
-      <App_17 />
+      <TipCalculator />
     </>
   );
 }
